@@ -1,4 +1,3 @@
-Dev @ ZKasino
 
 <!---
 0xBombadil/0xBombadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
